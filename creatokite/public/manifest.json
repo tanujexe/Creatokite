@@ -1,0 +1,15 @@
+{
+  "name": "Creatokite",
+  "short_name": "Creatokite",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060910",
+  "theme_color": "#060910",
+  "icons": [
+    {
+      "src": "/kite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
